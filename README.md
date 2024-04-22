@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=180&section=header&text=i%20yungui&fontSize=90)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyungui&show_icons=true&theme=radical)
-
-
 
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 ) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
