@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I'm **iyungui**, a passionate developer with exper
 ### Projects
 Here are some of the projects I've been working on:
 
-- **Project 1**: Description of the project and its key features.
-- **Project 2**: Description of the project and its key features.
-- **Project 3**: Description of the project and its key features.
+- **Project 1**: _
+- **Project 2**: _
+- **Project 3**: _
 
 ### Learning and Growth
 I'm constantly learning and growing as a developer. Currently, I'm exploring new technologies and working on improving my skills in areas like cloud computing and AI.
