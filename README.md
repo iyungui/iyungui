@@ -25,14 +25,9 @@ Welcome to my GitHub profile! I'm **iyungui**, a passionate developer with exper
 ![](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyungui&layout=compact)
+![iyungui's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyungui&show_icons=true&theme=dark&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyungui&layout=compact&bg_color=00000000)
 
-### Projects
-Here are some of the projects I've been working on:
-
-- **Project 1**: _
-- **Project 2**: _
-- **Project 3**: _
 
 ### Learning and Growth
 I'm constantly learning and growing as a developer. Currently, I'm exploring new technologies and working on improving my skills in areas like cloud computing and AI.
