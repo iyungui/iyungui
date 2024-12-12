@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=iyungui&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=iyungui&fontSize=80&animation=blinking)
 
 ### Hi there! 👋
 
