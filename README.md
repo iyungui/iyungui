@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm **iyungui**, a passionate developer with exper
 ![](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### GitHub Stats
-![iyungui's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyungui&show_icons=true&theme=dark&rank_icon=github)
+![iyungui's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyungui&theme=ambient_gradient&show_icons=true&rank_icon=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyungui&layout=compact&bg_color=00000000)
 
 
