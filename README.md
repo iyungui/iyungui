@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=iyungui&fontSize=60&color=4A5D23)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2C3333&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20Developer&descAlignY=75&descAlign=90)
 
 ### 👋 Hi there!
 I'm focusing on iOS development and problem solving.
