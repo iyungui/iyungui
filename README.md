@@ -41,11 +41,14 @@ game development, and backend systems.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 ![iyungui's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyungui&theme=ambient_gradient&show_icons=true&rank_icon=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyungui&layout=compact&bg_color=00000000)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbddml631)](https://solved.ac/dbddml631)
 ---
 
 ### 🌱 Learning and Growth
