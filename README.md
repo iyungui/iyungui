@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=iyungui&fontSize=80&animation=blinking)
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbddml631)](https://solved.ac/dbddml631)
   
 ### 👋 Welcome to my GitHub!
 
@@ -47,8 +49,6 @@ game development, and backend systems.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyungui&layout=compact&bg_color=00000000)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbddml631)](https://solved.ac/dbddml631)
 ---
 
 ### 🌱 Learning and Growth
