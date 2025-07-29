@@ -12,7 +12,7 @@ I'm focusing on iOS development and problem solving.
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 ### 📝 Blog
-[iyungui](https://iyungui.site)
+[iyungui](https://iyungui.netlify.app)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbddml631)](https://solved.ac/dbddml631)
 
