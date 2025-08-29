@@ -14,6 +14,4 @@ I'm focusing on iOS development and problem solving.
 ### 📝 Blog
 [iyungui](https://iyungui.netlify.app)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbddml631)](https://solved.ac/dbddml631)
-
 </div>
