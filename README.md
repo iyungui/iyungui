@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=5885AF&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20Developer&descAlignY=75&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5885AF&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20&descAlignY=75&descAlign=90)
 
 ### 🛠 Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
