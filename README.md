@@ -2,9 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5885AF&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20Developer&descAlignY=75&descAlign=90)
 
-### 👋 Hi there!
-I'm focusing on iOS development and problem solving.
-
 ### 🛠 Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
