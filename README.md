@@ -9,6 +9,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 ### 📝 Blog
-[iyungui](https://yung-lee.tistory.com)
+[iyungui](https://iyungui.dev)
 
 </div>
