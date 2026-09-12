@@ -1,14 +1,17 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=5885AF&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20&descAlignY=75&descAlign=90)
+<img src="./assets/tanjiro-waterwheel-top.gif" width="960" alt="A tiny pixel swordsman runs from right to left, winds up his sword, performs a Water Wheel, then runs offscreen." /><br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5885AF&height=150&text=iyungui&fontSize=60&fontColor=FAF0E6&desc=%20&descAlignY=75&descAlign=90" alt="iyungui" />
 
-### 🛠 Tech Stack
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-### 📝 Blog
-[iyungui](https://iyungui.dev)
-
+  <p><i>Making small systems.</i></p>
+  <p>
+    <a href="https://iyungui.dev">Blog</a>
+    ·
+    <a href="https://linkedin.com/in/iyungui">LinkedIn</a>
+  </p>
 </div>
+
+### Recent activity
+<!-- ACTIVITY:START -->
+- Building quietly.
+<!-- ACTIVITY:END -->
