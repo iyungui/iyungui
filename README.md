@@ -13,5 +13,6 @@
 
 ### Recent activity
 <!-- ACTIVITY:START -->
-- Building quietly.
+- merged a pull request in [iyungui/mobile_wedding_invitation](https://github.com/iyungui/mobile_wedding_invitation).
+- opened a pull request in [iyungui/mobile_wedding_invitation](https://github.com/iyungui/mobile_wedding_invitation).
 <!-- ACTIVITY:END -->
